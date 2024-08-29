@@ -1,3 +1,3 @@
 # Readme File creation Tutorial
 
-- (Node.js First Tutorial)[https://github.com/FullStackNest/nodejs-first-tutorial]
+- <a href="https://github.com/FullStackNest/nodejs-first-tutorial" target="_blank">Node.js First Tutorial</a>
