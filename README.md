@@ -4,4 +4,4 @@
 
 
 ## Sample
-<img src="/promo.jpg">
+<img style="height: 300px; width: 200px;" src="/promo.jpg">
